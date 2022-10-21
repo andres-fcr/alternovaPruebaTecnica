@@ -1,6 +1,5 @@
 import {useState} from "react";
 import {Col, Container, Row} from "react-bootstrap";
-import "./App.css";
 import Cart from "./components/Cart";
 import Products from "./components/Products";
 import TopBar from "./components/TopBar";
